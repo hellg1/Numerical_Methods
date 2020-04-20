@@ -1,4 +1,5 @@
-# Numerical_Methods
+# Numerical Methods
+
 ### Numerical methods, 6th semester, SPbSU, Faculty of Mathematics and Mechanics
 
 Репозиторий с лабораторными работами по курсу "Вычислительные методы".
@@ -15,26 +16,26 @@
 
 ### Лабораторная работа №1
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab1.png)
+![](Computational%20methods%20figures/Lab1.png)
 
 ### Лабораторная работа №2
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab2.png)
+![](Computational%20methods%20figures/Lab2.png)
 
 ### Лабораторная работа №3
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab3.png)
+![](Computational%20methods%20figures/Lab3.png)
 
 ### Лабораторная работа №4
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab4.png)
+![](Computational%20methods%20figures/Lab4.png)
 
 ### Лабораторная работа №5
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab5.png)
+![](Computational%20methods%20figures/Lab5.png)
 
 ### Лабораторная работа №6
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab6_1.png)
+![](Computational%20methods%20figures/Lab6_1.png)
 
-![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab6_2.png)
+![](Computational%20methods%20figures/Lab6_2.png)
