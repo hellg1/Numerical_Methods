@@ -15,26 +15,26 @@
 
 ### Лабораторная работа №1
 
-![](Computational methods figures/Lab1.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab1.png)
 
 ### Лабораторная работа №2
 
-![](Computational methods figures/Lab2.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab2.png)
 
 ### Лабораторная работа №3
 
-![](Computational methods figures/Lab3.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab3.png)
 
 ### Лабораторная работа №4
 
-![](Computational methods figures/Lab4.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab4.png)
 
 ### Лабораторная работа №5
 
-![](Computational methods figures/Lab5.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab5.png)
 
 ### Лабораторная работа №6
 
-![](Computational methods figures/Lab6_1.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab6_1.png)
 
-![](Computational methods figures/Lab6_2.png)
+![](https://github.com/hellg1/Numerical_Methods/tree/master/Computational%20methods%20figures/Lab6_2.png)
