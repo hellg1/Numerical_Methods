@@ -15,24 +15,26 @@
 
 ### Лабораторная работа №1
 
-![](Computational methods figures/lab1.png)
+![](Computational methods figures/Lab1.png)
 
 ### Лабораторная работа №2
 
-![](Computational methods figures/lab2.png)
+![](Computational methods figures/Lab2.png)
 
 ### Лабораторная работа №3
 
-![](Computational methods figures/lab3.png)
+![](Computational methods figures/Lab3.png)
 
 ### Лабораторная работа №4
 
-![](Computational methods figures/lab4.png)
+![](Computational methods figures/Lab4.png)
 
 ### Лабораторная работа №5
 
-![](Computational methods figures/lab1.png)
+![](Computational methods figures/Lab5.png)
 
 ### Лабораторная работа №6
 
-![](Computational methods figures/lab1.png)
+![](Computational methods figures/Lab6_1.png)
+
+![](Computational methods figures/Lab6_2.png)
